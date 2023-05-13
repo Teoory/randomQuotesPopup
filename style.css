@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #3d3d3d;
+}
+
+body h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    min-width: 500px;
+    width: 100%;
+}
+
+.quote{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 18px;
+    line-height: 26px;
+    position: relative;
+    max-width: 400px;
+    background: rgb(175, 219, 245);
+    border-radius: 4px;
+    margin: 20px 0px !important;
+    padding: 0px 20px !important;
+}
+.quote::before{
+    content: open-quote;
+    left: 10px;
+    top: 5px
+}
+.quote::after,.quote::before{
+    color: #67a2c5;
+    font-size: 16px;
+    font-weight: 700;
+    position: absolute
+}
+.quote::after {
+    bottom: 5px;
+    content: close-quote;
+    right: 10px
+}
+
+#authorElement{
+    font-size: large;
+    font-weight: 600;
+}
+
+#quotes{
+    display: grid;
+    justify-items: center;
+    align-content: center;
+}
+
+.content{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+
+button{
+    display: inline-block;
+    transition: all 650ms;
+    border-radius: 0.3rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.main-btn {
+    font-size: 1.5rem;
+    border: 2px solid #e57d70;
+    background: #e57d70;
+    letter-spacing: 2px;
+    padding: 5px 10px;
+    margin-top: 1rem;
+
+        &:hover {
+      transform: translateY(-0.3rem);
+      box-shadow: 1px 1px 25px 10px rgba(255, 255, 255, 0.4);
+    }
+}
+
+#quoteCount {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #eaf2f8;
+    color: #222;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  #quoteCount:focus {
+    outline: none;
+    background-color: #d4e9f7;
+  }
+  
+  #quoteCount::placeholder {
+    color: #777;
+  }
+  
+  

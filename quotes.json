@@ -1,0 +1,564 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "All’s well that ends better.",
+      "author": "Hamfast Gamgee"
+    },
+    {
+      "id": 2,
+      "quote": "Let him not vow to walk in the dark, who has not seen the nightfall.",
+      "author": "Elrond"
+    },
+    {
+      "id": 3,
+      "quote": "It’s the job that’s never started as takes longest to finish.",
+      "author": "Sam Gamgee"
+    },
+    {
+      "id": 4,
+      "quote": "I'm your Huckleberry.",
+      "author": "Tombstone"
+    },
+    {
+      "id": 5,
+      "quote": "You see, in their last moments people show you who they really are.",
+      "author": "The Dark Knight"
+    },
+    {
+      "id": 6,
+      "quote": "I just hope my death makes more cents than my life.",
+      "author": "Joker"
+    },
+    {
+      "id": 7,
+      "quote": "Run, Forrest, run!",
+      "author": "Forrest Gump"
+    },
+    {
+      "id": 8,
+      "quote": "What do you want most in the world?",
+      "author": "Anna"
+    },
+    {
+      "id": 9,
+      "quote": "Secrecy is security and security is victory.",
+      "author": "Snowden"
+    },{
+      "id": 10,
+      "quote": "You mustn't be afraid to dream a little bigger, darling.",
+      "author": "Inception"
+    },
+    {
+      "id": 11,
+      "quote": "I'm gonna make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 12,
+      "quote": "May the Force be with you.",
+      "author": "Star Wars"
+    },
+    {
+      "id": 13,
+      "quote": "Unfortunately, we’re all human. Except me, of course.",
+      "author": "Mr.Robot"
+    },
+    {
+      "id": 14,
+      "quote": "Life is like a box of chocolates, you never know what you're gonna get.",
+      "author": "Forrest Gump"
+    },
+    {
+      "id": 15,
+      "quote": "Why so serious?",
+      "author": "The Dark Knight"
+    },
+    {
+      "id": 16,
+      "quote": "I'll be back.",
+      "author": "Terminator 2: Judgment Day"
+    },
+    {
+      "id": 17,
+      "quote": "Hasta la vista, baby.",
+      "author": "Terminator 2: Judgment Day"
+    },
+    {
+      "id": 18,
+      "quote": "I feel the need... the need for speed!",
+      "author": "Top Gun"
+    },
+    {
+      "id": 19,
+      "quote": "We'll always have Paris.",
+      "author": "Casablanca"
+    },
+    {
+      "id": 20,
+      "quote": "Here's looking at you, kid.",
+      "author": "Casablanca"
+    },
+    {
+      "id": 21,
+      "quote": "You talking to me?",
+      "author": "Taxi Driver"
+    },
+    {
+      "id": 22,
+      "quote": "You can't handle the truth!",
+      "author": "A Few Good Men"
+    },
+    {
+      "id": 23,
+      "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+      "author": "Network"
+    },
+    {
+      "id": 24,
+      "quote": "Go ahead, make my day.",
+      "author": "Sudden Impact"
+    },
+    {
+      "id": 25,
+      "quote": "Yippee ki-yay, motherf****r!",
+      "author": "Die Hard"
+    },
+    {
+      "id": 26,
+      "quote": "I love the smell of napalm in the morning.",
+      "author": "Apocalypse Now"
+    },
+    {
+      "id": 27,
+      "quote": "I'm walking here!",
+      "author": "Midnight Cowboy"
+    },
+    {
+      "id": 28,
+      "quote": "You can't handle the truth!",
+      "author": "A Few Good Men"
+    },
+    {
+      "id": 29,
+      "quote": "I see dead people.",
+      "author": "The Sixth Sense"
+    },
+    {
+      "id": 30,
+      "quote": "Houston, we have a problem.",
+      "author": "Apollo 13"
+    },
+    {
+      "id": 31,
+      "quote": "Are you not entertained?",
+      "author": "Gladiator"
+    },{
+      "id": 32,
+      "quote": "Nobody puts Baby in a corner.",
+      "author": "Dirty Dancing"
+    },
+    {
+      "id": 33,
+      "quote": "I'll have what she's having.",
+      "author": "When Harry Met Sally"
+    },
+    {
+      "id": 34,
+      "quote": "Carpe diem. Seize the day, boys.",
+      "author": "Dead Poets Society"
+    },
+    {
+      "id": 35,
+      "quote": "I'm king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 36,
+      "quote": "To infinity and beyond!",
+      "author": "Toy Story"
+    },
+    {
+      "id": 37,
+      "quote": "I see you.",
+      "author": "Avatar"
+    },
+    {
+      "id": 38,
+      "quote": "Just keep swimming.",
+      "author": "Finding Nemo"
+    },
+    {
+      "id": 39,
+      "quote": "Hakuna Matata.",
+      "author": "The Lion King"
+    },
+    {
+      "id": 40,
+      "quote": "A dream is a wish your heart makes.",
+      "author": "Cinderella"
+    },
+    {
+      "id": 41,
+      "quote": "Do or do not. There is no try.",
+      "author": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "id": 42,
+      "quote": "Keep your friends close, but your enemies closer.",
+      "author": "The Godfather Part II"
+    },
+    {
+      "id": 43,
+      "quote": "I'll make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 44,
+      "quote": "Why, hello there!",
+      "author": "Austin Powers: International Man of Mystery"
+    },
+    {
+      "id": 45,
+      "quote": "It's alive! It's alive!",
+      "author": "Frankenstein"
+    },
+    {
+      "id": 46,
+      "quote": "I'm the king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 47,
+      "quote": "Here's Johnny!",
+      "author": "The Shining"
+    },
+    {
+      "id": 48,
+      "quote": "Here's Johnny!",
+      "author": "The Shining"
+    },
+    {
+      "id": 49,
+      "quote": "I feel the need... the need for speed!",
+      "author": "Top Gun"
+    },
+    {
+      "id": 50,
+      "quote": "I'm going to make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 51,
+      "quote": "You talking to me?",
+      "author": "Taxi Driver"
+    },
+    {
+      "id": 52,
+      "quote": "You can't handle the truth!",
+      "author": "A Few Good Men"
+    },
+    {
+      "id": 53,
+      "quote": "I'll be back.",
+      "author": "The Terminator"
+    },
+    {
+      "id": 54,
+      "quote": "Which would be worse, to live a monster or die as a good man?",
+      "author": "Shutter Island"
+    },{
+      "id": 55,
+      "quote": "You can't handle the truth!",
+      "author": "A Few Good Men"
+    },
+    {
+      "id": 56,
+      "quote": "I see dead people.",
+      "author": "The Sixth Sense"
+    },
+    {
+      "id": 57,
+      "quote": "Houston, we have a problem.",
+      "author": "Apollo 13"
+    },
+    {
+      "id": 58,
+      "quote": "Nobody puts Baby in a corner.",
+      "author": "Dirty Dancing"
+    },
+    {
+      "id": 59,
+      "quote": "I'll have what she's having.",
+      "author": "When Harry Met Sally"
+    },
+    {
+      "id": 60,
+      "quote": "Carpe diem. Seize the day, boys.",
+      "author": "Dead Poets Society"
+    },
+    {
+      "id": 61,
+      "quote": "I'm king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 62,
+      "quote": "To infinity and beyond!",
+      "author": "Toy Story"
+    },
+    {
+      "id": 63,
+      "quote": "I see you.",
+      "author": "Avatar"
+    },
+    {
+      "id": 64,
+      "quote": "Just keep swimming.",
+      "author": "Finding Nemo"
+    },
+    {
+      "id": 65,
+      "quote": "Hakuna Matata.",
+      "author": "The Lion King"
+    },
+    {
+      "id": 66,
+      "quote": "A dream is a wish your heart makes.",
+      "author": "Cinderella"
+    },
+    {
+      "id": 67,
+      "quote": "Do or do not. There is no try.",
+      "author": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "id": 68,
+      "quote": "Keep your friends close, but your enemies closer.",
+      "author": "The Godfather Part II"
+    },
+    {
+      "id": 69,
+      "quote": "I'll make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 70,
+      "quote": "Why, hello there!",
+      "author": "Austin Powers: International Man of Mystery"
+    },
+    {
+      "id": 71,
+      "quote": "It's alive! It's alive!",
+      "author": "Frankenstein"
+    },
+    {
+      "id": 72,
+      "quote": "I'm the king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 73,
+      "quote": "Here's Johnny!",
+      "author": "The Shining"
+    },
+    {
+      "id": 74,
+      "quote": "Here's Johnny!",
+      "author": "The Shining"
+    },
+    {
+      "id": 75,
+      "quote": "I feel the need... the need for speed!",
+      "author": "Top Gun"
+    },{
+      "id": 76,
+      "quote": "Here's Johnny!",
+      "author": "The Shining"
+    },
+    {
+      "id": 77,
+      "quote": "I feel the need... the need for speed!",
+      "author": "Top Gun"
+    },
+    {
+      "id": 78,
+      "quote": "I'm going to make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 79,
+      "quote": "You talking to me?",
+      "author": "Taxi Driver"
+    },
+    {
+      "id": 80,
+      "quote": "You can't handle the truth!",
+      "author": "A Few Good Men"
+    },
+    {
+      "id": 81,
+      "quote": "I'll be back.",
+      "author": "The Terminator"
+    },
+    {
+      "id": 82,
+      "quote": "I see dead people.",
+      "author": "The Sixth Sense"
+    },
+    {
+      "id": 83,
+      "quote": "Houston, we have a problem.",
+      "author": "Apollo 13"
+    },
+    {
+      "id": 84,
+      "quote": "Nobody puts Baby in a corner.",
+      "author": "Dirty Dancing"
+    },
+    {
+      "id": 85,
+      "quote": "I'll have what she's having.",
+      "author": "When Harry Met Sally"
+    },
+    {
+      "id": 86,
+      "quote": "Carpe diem. Seize the day, boys.",
+      "author": "Dead Poets Society"
+    },
+    {
+      "id": 87,
+      "quote": "I'm king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 88,
+      "quote": "To infinity and beyond!",
+      "author": "Toy Story"
+    },
+    {
+      "id": 89,
+      "quote": "I see you.",
+      "author": "Avatar"
+    },
+    {
+      "id": 90,
+      "quote": "Just keep swimming.",
+      "author": "Finding Nemo"
+    },
+    {
+      "id": 91,
+      "quote": "Hakuna Matata.",
+      "author": "The Lion King"
+    },
+    {
+      "id": 92,
+      "quote": "A dream is a wish your heart makes.",
+      "author": "Cinderella"
+    },
+    {
+      "id": 93,
+      "quote": "Do or do not. There is no try.",
+      "author": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "id": 94,
+      "quote": "Keep your friends close, but your enemies closer.",
+      "author": "The Godfather Part II"
+    },
+    {
+      "id": 95,
+      "quote": "I'll make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 96,
+      "quote": "Why, hello there!",
+      "author": "Austin Powers: International Man of Mystery"
+    },
+    {
+      "id": 97,
+      "quote": "It's alive! It's alive!",
+      "author": "Frankenstein"
+    },
+    {
+      "id": 98,
+      "quote": "I have nothing to prove to you",
+      "author": "Captain Marvel"
+    },{
+      "id": 99,
+      "quote": "I'm the king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 100,
+      "quote": "Here's Johnny!",
+      "author": "The Shining"
+    },
+    {
+      "id": 101,
+      "quote": "I feel the need... the need for speed!",
+      "author": "Top Gun"
+    },
+    {
+      "id": 102,
+      "quote": "I'm going to make him an offer he can't refuse.",
+      "author": "The Godfather"
+    },
+    {
+      "id": 103,
+      "quote": "You talking to me?",
+      "author": "Taxi Driver"
+    },
+    {
+      "id": 104,
+      "quote": "You can't handle the truth!",
+      "author": "A Few Good Men"
+    },
+    {
+      "id": 105,
+      "quote": "I'll be back.",
+      "author": "The Terminator"
+    },
+    {
+      "id": 106,
+      "quote": "I see dead people.",
+      "author": "The Sixth Sense"
+    },
+    {
+      "id": 107,
+      "quote": "Houston, we have a problem.",
+      "author": "Apollo 13"
+    },
+    {
+      "id": 108,
+      "quote": "Nobody puts Baby in a corner.",
+      "author": "Dirty Dancing"
+    },
+    {
+      "id": 109,
+      "quote": "I'll have what she's having.",
+      "author": "When Harry Met Sally"
+    },
+    {
+      "id": 110,
+      "quote": "Carpe diem. Seize the day, boys.",
+      "author": "Dead Poets Society"
+    },
+    {
+      "id": 111,
+      "quote": "I'm king of the world!",
+      "author": "Titanic"
+    },
+    {
+      "id": 112,
+      "quote": "To infinity and beyond!",
+      "author": "Toy Story"
+    },
+    {
+      "id": 113,
+      "quote": "I see you.",
+      "author": "Avatar"
+    }
+  ]
+}
